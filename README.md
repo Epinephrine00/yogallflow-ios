@@ -9,3 +9,8 @@ python : [https://github.com/Epinephrine00/yogallflow-python]
 ------------------------
 
 android 버전과 python 버전으로 추출한 json 파일을 android와 ios 버전에서 불러와 사용할 수 있습니다.
+
+----------------
+
+ios버전은 배포 문제로 기기의 udid를 알아야만 배포판을 설치하실 수 있습니다. 
+아 진짜 애플 왜 이따위로 해둔거지 진짜 개때리고싶네
